@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_urls">
+        <item>http://b.zol-img.com.cn/desk/bizhi/image/5/1920x1080/1405049599765.jpg</item>
+        <item>http://218.76.97.43/play/AD70749A0FF8A773B92C1C1537766DD21C8AB1EF.mp4</item>
+        <item>http://w.x.baidu.com/alading/anquan_soft_down_normal/17707</item>
+        <item>http://dx8.962.net/h/Pal5.7z</item>
+        <item>http://h.962.net/xianjianqixiazhuan4.exe</item>
+        <item>http://dx1.962.net/h/xianjianwin95.exe</item>
+        <item>http://gdown.baidu.com/data/wisegame/31884458c0828d21/WiFiMaster_503.apk</item>
+        <item>http://www.71lady.com/uploads/allimg/140627/2_140627152242_1.jpg</item>
+        <item>http://pic5.nipic.com/20100302/2177138_084157432259_2.jpg</item>
+        <item>http://pic11.nipic.com/20101122/3320946_232437366830_2.jpg</item>
+        <item>http://h.hiphotos.bdimg.com/album/w%3D2048/sign=b335513fa2cc7cd9fa2d33d90d39233f/35a85edf8db1cb1356ce76c1dc54564e93584bb8.jpg</item>
+        <item>http://gdown.baidu.com/data/wisegame/fea8666c2c58ff4e/Qzone_71.apk</item>
+        <item>http://gdown.baidu.com/data/wisegame/abad88473a955c3a/QQ_134.apk</item>
+        <item>http://gdown.baidu.com/data/wisegame/d9004ba4d2b7d6a4/shoujitaobao_102.apk</item>
+        <item>http://gdown.baidu.com/data/wisegame/2693810b8838723f/cangqiongzhijian_101102.apk</item>
+        <item>http://gdown.baidu.com/data/wisegame/efb80e19d5356326/wenjiandashi_252.apk</item>
+        <item>http://gdown.baidu.com/data/wisegame/c463369e1ad0fa9d/WiFiMaster_506.apk</item>
+    </string-array>
+</resources>
